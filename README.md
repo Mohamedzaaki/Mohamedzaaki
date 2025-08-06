@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">DevOps Engineer</h2>
+<h2 align="left">DevOps Engineer | Focused on cloud, automation, CI/CD and IaC</h2>
 
 ###
 
