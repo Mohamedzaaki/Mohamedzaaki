@@ -13,20 +13,18 @@
 </p>
 
 
-## 👨‍💻 About Me
-
-## Professional Summary
-
-- 🌱 Currently expanding expertise in **Helm, Prometheus, and Grafana** for cloud-native observability and monitoring.  
-- 💬 Experienced in **Linux administration, AWS cloud services, and CI/CD pipelines**; happy to provide guidance or insights.  
-- 👯 I’m looking to collaborate on **open-source DevOps projects** to contribute and learn from the community.  
-- 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
+### Professional Summary
+---
+- Currently expanding expertise in **Helm, Prometheus, and Grafana** for cloud-native observability and monitoring.  
+- Experienced in **Linux administration, AWS cloud services, and CI/CD pipelines**; happy to provide guidance or insights.  
+- I’m looking to collaborate on **open-source DevOps projects** to contribute and learn from the community.  
+- Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
 
 
 
 
-## 🛠️ Tools & Technologies
-  
+### Tools & Technologies
+--- 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
   <img width="15" />
@@ -68,8 +66,8 @@
 </div>
 
 
-## 📈 GitHub Insights
-
+### GitHub Insights
+---
 <div align="center" style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <div style="width: 100%; display: flex; justify-content: space-between; align-items: flex-end;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedzaakii&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
@@ -81,8 +79,8 @@
 </div>
 
 
-## 📬 Connect & Collaborate
-
+### Connect & Collaborate
+---
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="50" width="50" alt="linkedin logo" />
@@ -92,6 +90,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="50" width="50" alt="gmail logo" />
   </a>
 </div>
+
 
 
 
