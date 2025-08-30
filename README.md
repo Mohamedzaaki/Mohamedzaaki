@@ -13,12 +13,12 @@
 </p>
 
 
-### Professional Summary
+### Summary
 ---
-- Currently expanding expertise in **Helm, Prometheus, and Grafana** for cloud-native observability and monitoring.  
-- Experienced in **Linux administration, AWS cloud services, and CI/CD pipelines**; happy to provide guidance or insights.  
-- I’m looking to collaborate on **open-source DevOps projects** to contribute and learn from the community.  
-- Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
+- 🌱 Currently expanding expertise in **Helm, Prometheus, and Grafana**.
+- 💬 Ask me about linux, AWS, and CI/CD. 
+- 👯 I’m looking to collaborate on **open-source DevOps projects**.  
+- 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
 
 
 
