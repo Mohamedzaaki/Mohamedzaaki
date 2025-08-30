@@ -1,43 +1,103 @@
-<h1 align="center">Hi there 👋, I'm Mohamed Zaki</h1>
-<h3  align="center"> 🚀 Junior DevOps Engineer ☁️🔧 </h3>
+<h1 align="center">Hi there 👋 I'm Mohamed Zaki</h1>
 
-### 📌 About Me
-> *Results-driven DevOps Engineer experienced with Kubernetes, CI/CD pipelines, Infrastructure as Code, and AWS. Skilled at
-automating cloud infrastructure, developing robust scripts, and managing Linux environments to deliver scalable, reliable, and
-high-performance systems. Passionate about optimizing workflows and building resilient cloud-native solutions.
----
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Yasmeen&color=brightgreen" alt="watching_count" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=FFFFFF&center=true&vCenter=true&width=850&lines=DevOps+Engineer" alt="Typing SVG" />
 </p>
 
----
-### 📬 Connect with Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Kubernetes+|+AWS+|+GitHub+Actions+|+Terraform+|+Ansible" alt="Tech Stack Animation" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zaaki/)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedzaakii)
-
----
-
-## 🧰 Technical Skills
-
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### ⚙️ CI/CD & Monitoring  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 🧠 Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Docker+|+Helm+|+Prometheus+|+Linux" alt="Additional Tech Animation" />
+</p>
 
 
----
+## 👨‍💻 About Me
+
+## Professional Summary
+
+- 🌱 Currently expanding expertise in **Helm, Prometheus, and Grafana** for cloud-native observability and monitoring.  
+- 💬 Experienced in **Linux administration, AWS cloud services, and CI/CD pipelines**; happy to provide guidance or insights.  
+- 👯 I’m looking to collaborate on **open-source DevOps projects** to contribute and learn from the community.  
+- 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
+
+
+
+
+## 🛠️ Tools & Technologies
+  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/helm/0F1689" height="50" alt="helm logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="50" alt="githubactions logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" alt="terraform logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" alt="ansible logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="50" alt="prometheus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="50" alt="grafana logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="elk stack logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="apache logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="50" alt="redhat logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="50" alt="centos logo"  />
+</div>
+
+
+## 📈 GitHub Insights
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <div style="width: 100%; display: flex; justify-content: space-between; align-items: flex-end;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedzaakii&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohamedzaakii&show_icons=true&locale=en&theme=dracula&hide_border=false" alt="GitHub Stats" />
+  </div>
+  <div style="margin-top: 10px; text-align: center; width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzaakii&theme=dracula" alt="GitHub Streak" />
+  </div>
+</div>
+
+
+## 📬 Connect & Collaborate
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="50" width="50" alt="linkedin logo" />
+  </a>
+  <img width="15" />
+  <a href="mailto:mohamedzaki827@gmail.com" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="50" width="50" alt="gmail logo" />
+  </a>
+</div>
+
+
+
+
+
+
+
+
 
